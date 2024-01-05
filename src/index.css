@@ -6,14 +6,30 @@ html, body {
     color: black;
     font-family: 'Cormorant Garamond', serif;
     width:100%;
+    
   }
   
   header {
-    padding: 1em 0em 0em 0em;
+    padding: 2rem 2rem 2rem 2rem; 
     height:20%;
     position: relative;
     left: -XXpx;
   }
+
+  .header {
+    text-align: center;
+  
+  }
+
+  
+  /* About Page CSS  */
+
+  .about {
+    color: black;
+    font-family: 'Cormorant Garamond', serif;
+    width:100%;
+  }
+
   
   #root, .main-container {
     width: 100%;
@@ -23,7 +39,7 @@ html, body {
     text-align: center;
     margin-top:0;
     margin-bottom:.25em;
-    font-size: 4em;
+    font-size: 3em;
   }
   
   .main-container img {
@@ -44,3 +60,168 @@ html, body {
     width:30%;
     border-radius: 2em;;
 }
+
+.contactform {
+  display:flex;
+  flex-direction: column;
+  flex-direction: column;
+}
+
+
+/* Existing Recipes */
+
+.card {
+  border: 1px solid black;
+  border-radius: 4px;
+  background-color: white;
+  align-items: center;
+  text-align: center;
+  padding:1rem;
+  transform-style: preserve-3d;
+  transition: all 0.8s ease;
+  
+}
+
+.card img {
+  width:6em;
+  height:6em;
+}
+
+.container {
+  width:50%;
+  display:flex;
+}
+
+#existing-recipes {
+  width:100%;
+  height:auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-bottom: 2rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: .10rem;
+  
+}
+
+
+#existing-recipes .card {
+  display:flex;
+  flex-direction: column;
+  width:15rem;
+}
+
+/* End of Existing Recipes CSS */
+
+/* New Recipe CSS */
+
+form {
+  display:flex;
+  justify-content: center;
+  margin-top: 1em;
+  gap:.25em;
+  display: flex;
+  box-sizing:border-box;
+  border-radius: 2em;
+  flex-wrap: wrap;
+}
+
+form input, button {
+  font-size: 1em;
+  border-radius: 2em;
+  text-align: center;
+  font-family: 'Cormorant Garamond', serif;
+  box-sizing:border-box;
+  width:30%;
+}
+
+.newform {
+  text-align: center;
+  justify-content: center;
+  display:block;
+
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* End of New Recipe CSS */
+
+/* NavBar CSS */
+
+.navbar {
+  width:100%;
+}
+
+.active {
+  /* position: absolute; */
+  width: 120px;
+  height: 40px;
+  background: #00bfb2;
+  border-radius: 50px;
+  transition: left 300ms cubic-bezier(1, -0.5, 0, 1.5);
+  border-top: 5px solid darkgray;
+  border-bottom: 5px solid darkgray;
+  border-left: 5px solid hsl(302, 56%, 88%);
+  border-right: 5px solid hsl(302, 56%, 88%)
+}
+
+.nav-link{
+  box-sizing: border-box;
+  width: 60px;
+  padding: 5px;
+  margin: 0 6px 6px;
+  background: 00bfb2;
+  text-decoration: none;
+  text-align: center;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: min(10vw, 15px) ;
+  color: black;
+}
+
+.bakedgif{
+  padding: 15px;
+  align-items: center;
+}
+
+.envelope{
+  padding-top: 15px;
+  align-items: center;
+}
+
+.nav-div {
+  height: 60px;
+  min-width: 700px;
+  width: 100%;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* End of nav bar css */
+
+/* About */
+
+.class {
+  border: 1px solid black;
+  border-radius: 4px;
+  background-color: white;
+  align-items: center;
+  text-align: center;
+  transform-style: preserve-3d;
+  transition: all 0.8s ease;
+  outline: black;
+  
+}
+
+.classcard img {
+  width:6em;
+  height:6em;
+}
+
+

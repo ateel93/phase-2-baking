@@ -1,84 +1,84 @@
 {
-    "recipes": [
-        {
-            "id": 1,
-            "image": "https://iambaker.net/wp-content/uploads/2021/10/pumpkin-pie-2.jpg",
-            "name": "Pumpkin Pie",
-            "serves": "4 People",
-            "ingredients": "Pie Crust Sugar, Eggs, Pumpkin Pie Spice, Salt, Pumpkin, Milk",
-            "prep-time": "1 hour" 
-        },
-        {
-            "id": 2,
-            "image": "https://altonbrown.com/wp-content/uploads/2020/08/IMG_1623-scaled.jpeg",
-            "name": "Apple Pie",
-            "serves": "4 People",
-            "ingredients": "Granny Smith, Honeycrisp, Golden Delicious, Pinklady, Pie Crust, Cinnamon, Sugar",
-            "prep-time": "1.5 Hours"
-        },
-        {
-            "id": 3,
-            "image": "https://sallysbakingaddiction.com/wp-content/uploads/2013/05/classic-chocolate-chip-cookies.jpg",
-            "name": "Chocolate Chip Cookies",
-            "serves": "12 Cookies",
-            "ingredients": "Flour, Unsalted Butter, Cream Cheese, Brown Sugar, Granulated Sugar, Vanilla Extract, Eggs, Salt, Baking Soda",
-            "prep-time": "1 Hour"
-        },
-        {
-            "id": 4,
-            "image": "https://joyfoodsunshine.com/wp-content/uploads/2019/06/fudgy-homemade-brownies-recipe-from-scratch-7.jpg",
-            "name": "Brownies",
-            "serves": "6 People",
-            "ingredients": "Sugar, Flour, Butter, Eggs, Cocoa Powder, Vanilla Extract, Baking Powder, Salt",
-            "prep-time": "45 Minutes"
-        },
-        {
-            "id": 5,
-            "image": "https://keviniscooking.com/wp-content/uploads/2022/04/Rhubarb-Crisp-square.jpg",
-            "name": "Rhubarb",
-            "serves": "4 People",
-            "ingredients": "Salt, Rhubarb, Flour, Cornstarch, Oats ",
-            "prep-time": "2 Hours"
-        },
-        {
-            "id": 6,
-            "image": "https://saltandbaker.com/wp-content/uploads/2019/12/cinnamon-roll-recipe.jpg",
-            "name": "Cinnamon Roll",
-            "serves": "5 Rolls",
-            "ingredients": "Flour, Sugar, Salt, Whole Milk, Butter, Eggs",
-            "prep-time": "45 Minutes"
-        },
-        {
-            "id": 7,
-            "image": "https://handletheheat.com/wp-content/uploads/2021/09/best-soft-and-chewy-sugar-cookies-SQUARE.jpg",
-            "name": "Sugar Cookies",
-            "serves": "12 Cookies",
-            "ingredients": "Flour, Baking Sofa, Baking Powder, White Sugar, Eggs, Vanilla Extract",
-            "prep-time": "1 Hour"
-        },
-        {
-            "id": 8,
-            "image": "https://static01.nyt.com/images/2020/11/01/dining/Carrot-Cake-textless/Carrot-Cake-textless-superJumbo.jpg",
-            "name": "Carrot Cake",
-            "serves": "4 People",
-            "ingredients": "Flour, Baking Powder, Cinnamon, Salt, Eggs, Granulated Sugar, Vegetable Oil, Peeled Carrots",
-            "prep-time": "2 Hours"
-        },
-        {
-            "id": 9,
-            "image": "https://peasandcrayons.com/wp-content/uploads/2022/10/pumpkin-spice-banana-nut-muffins-6290.jpg",
-            "name": "Banana Nut Muffins",
-            "serves": "8 Muffins",
-            "ingredients": "Bananas, Egg, Sugar, Vegetable Oil, Flour, Baking Powder, Baking Soda, Salt, Cinnamon",
-            "prep-time": "45 Minutes"
-        },
-        {
-            "id": 10,
-            "image": "https://www.chiselandfork.com/wp-content/uploads/2020/02/chocolate-croissants-4.jpg",
-            "name": "Chocolate Croissants",
-            "serves": "8 Croissants",
-            "ingredients": "Egg, Water, Flour, Butter, Chocolate",
-            "prep-time": "2 Hours"
-        }
-    ]
+  "recipes": [
+    {
+      "id": 1,
+      "image": "https://iambaker.net/wp-content/uploads/2021/10/pumpkin-pie-2.jpg",
+      "name": "Pumpkin Pie",
+      "serves": "4 People",
+      "ingredients": "Pie Crust Sugar, Eggs, Pumpkin Pie Spice, Salt, Pumpkin, Milk",
+      "preptime": "1 hour"
+    },
+    {
+      "id": 2,
+      "image": "https://altonbrown.com/wp-content/uploads/2020/08/IMG_1623-scaled.jpeg",
+      "name": "Apple Pie",
+      "serves": "4 People",
+      "ingredients": "Granny Smith, Honeycrisp, Golden Delicious, Pinklady, Pie Crust, Cinnamon, Sugar",
+      "preptime": "1.5 Hours"
+    },
+    {
+      "id": 3,
+      "image": "https://sallysbakingaddiction.com/wp-content/uploads/2013/05/classic-chocolate-chip-cookies.jpg",
+      "name": "Chocolate Chip Cookies",
+      "serves": "12 Cookies",
+      "ingredients": "Flour, Unsalted Butter, Cream Cheese, Brown Sugar, Granulated Sugar, Vanilla Extract, Eggs, Salt, Baking Soda",
+      "preptime": "1 Hour"
+    },
+    {
+      "id": 4,
+      "image": "https://joyfoodsunshine.com/wp-content/uploads/2019/06/fudgy-homemade-brownies-recipe-from-scratch-7.jpg",
+      "name": "Brownies",
+      "serves": "6 People",
+      "ingredients": "Sugar, Flour, Butter, Eggs, Cocoa Powder, Vanilla Extract, Baking Powder, Salt",
+      "preptime": "45 Minutes"
+    },
+    {
+      "id": 5,
+      "image": "https://keviniscooking.com/wp-content/uploads/2022/04/Rhubarb-Crisp-square.jpg",
+      "name": "Rhubarb",
+      "serves": "4 People",
+      "ingredients": "Salt, Rhubarb, Flour, Cornstarch, Oats ",
+      "preptime": "2 Hours"
+    },
+    {
+      "id": 6,
+      "image": "https://saltandbaker.com/wp-content/uploads/2019/12/cinnamon-roll-recipe.jpg",
+      "name": "Cinnamon Roll",
+      "serves": "5 Rolls",
+      "ingredients": "Flour, Sugar, Salt, Whole Milk, Butter, Eggs",
+      "preptime": "45 Minutes"
+    },
+    {
+      "id": 7,
+      "image": "https://handletheheat.com/wp-content/uploads/2021/09/best-soft-and-chewy-sugar-cookies-SQUARE.jpg",
+      "name": "Sugar Cookies",
+      "serves": "12 Cookies",
+      "ingredients": "Flour, Baking Sofa, Baking Powder, White Sugar, Eggs, Vanilla Extract",
+      "preptime": "1 Hour"
+    },
+    {
+      "id": 8,
+      "image": "https://static01.nyt.com/images/2020/11/01/dining/Carrot-Cake-textless/Carrot-Cake-textless-superJumbo.jpg",
+      "name": "Carrot Cake",
+      "serves": "4 People",
+      "ingredients": "Flour, Baking Powder, Cinnamon, Salt, Eggs, Granulated Sugar, Vegetable Oil, Peeled Carrots",
+      "preptime": "2 Hours"
+    },
+    {
+      "id": 9,
+      "image": "https://peasandcrayons.com/wp-content/uploads/2022/10/pumpkin-spice-banana-nut-muffins-6290.jpg",
+      "name": "Banana Nut Muffins",
+      "serves": "8 Muffins",
+      "ingredients": "Bananas, Egg, Sugar, Vegetable Oil, Flour, Baking Powder, Baking Soda, Salt, Cinnamon",
+      "preptime": "45 Minutes"
+    },
+    {
+      "id": 10,
+      "image": "https://www.chiselandfork.com/wp-content/uploads/2020/02/chocolate-croissants-4.jpg",
+      "name": "Chocolate Croissants",
+      "serves": "8 Croissants",
+      "ingredients": "Egg, Water, Flour, Butter, Chocolate",
+      "preptime": "2 Hours"
+    }
+  ]
 }
